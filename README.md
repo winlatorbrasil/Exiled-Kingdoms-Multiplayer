@@ -58,9 +58,6 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 
 <img width="560" height="678" alt="image" src="https://github.com/user-attachments/assets/987115a0-b311-40da-a8d6-8494f139e800" />
 
-
-<img width="525" height="631" alt="image" src="https://github.com/user-attachments/assets/f8627a51-e7ac-4cd9-a8d1-4d4ecc77218c" />
-
 ---
 
 ## 📦 MENU MODS
