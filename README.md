@@ -40,15 +40,15 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 
 ---
 
-**LAN MODE IN UPPER RIGHT CORNER**
+## **LAN MODE IN UPPER RIGHT CORNER**
 
 <img width="1571" height="731" alt="image" src="https://github.com/user-attachments/assets/a464cdd1-dc50-4a57-b426-b4e2f635c65d" />
 
-**One device is the host, and the other is the client that will add the host's IP address or search for a LAN and connect.**
+## **One device is the host, and the other is the client that will add the host's IP address or search for a LAN and connect.**
 
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/50415032-f33c-4375-8061-3011a714f6ae" />
 
-**LAN chat for players to talk and see each other's location**
+## **LAN chat for players to talk and see each other's location**
 
 <img width="1340" height="734" alt="image" src="https://github.com/user-attachments/assets/21fc7c5c-8ee4-4d49-8f38-226157da1504" />
 
