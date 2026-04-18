@@ -5,179 +5,200 @@
 
 # ⚔️ Exiled Kingdoms — Multiplayer
 
-### *O multiplayer que transforma Exiled Kingdoms em uma nova experiência*
+### *The multiplayer that transforms Exiled Kingdoms into a new experience*
 ![Downloads](https://img.shields.io/github/downloads/winlatorbrasil/Exiled-Kingdoms-Multiplayer/total?style=for-the-badge&logo=github&label=Downloads&color=brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Game](https://img.shields.io/badge/Game-Exiled%20Kingdoms-8B0000?style=for-the-badge)
+![Game](https://img.shields.io/ [badge](https://img.shields.io/badge/Game-Exiled%20Kingdoms-8B0000?style=for-the-badge)
 ![Mode](https://img.shields.io/badge/Mode-Multiplayer%20LAN%20%7C%20PVP-1E90FF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Release%20Ready-gold?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-7-orange?style=for-the-badge)
 
-> **Co-op LAN/Wi‑Fi aprimorado, Arena PVP 1v1, Novos Companheiros, nova questline, loot refeito e interface medieval exclusiva.**
+> **Improved LAN/Wi-Fi Co-op, 1v1 PVP Arena, New Companions, new questline, redone loot and medieval interface Exclusive.**
 
 </div>
 
 ---
 
-## ✨ Visão geral
+## ✨Overview
 
-**Exiled Kingdoms — Multiplayer** é uma releitura ambiciosa da experiência original, focada em **multiplayer LAN/Wi‑Fi mais estável**, **alguns conteúdos inéditos** e uma **identidade visual medieval própria**.
+**Exiled Kingdoms — Multiplayer** is an ambitious reimagining of the original experience, focused on **more stable LAN/Wi-Fi multiplayer**, **some new content**, and a **unique medieval visual identity**.
 
-Este mod foi projetado para entregar uma experiência mais viva, mais social e mais imersiva, com melhorias técnicas e de design que tornam cada sessão muito mais interessante — seja explorando em coop, enfrentando outro jogador na arena ou descobrindo novas histórias espalhadas pelo mundo.
+This mod is designed to deliver a more vibrant, social, and immersive experience, with technical and design improvements that make each session much more interesting — whether exploring in co-op, facing another player in the arena, or discovering new stories scattered throughout the world.
 
----
+--
 
-## 🔥 Destaques do mod
+## 🔥 Mod Highlights
 
-- ⚔️ **Multiplayer LAN/Wi‑Fi reformulado** com sincronização melhorada de sprites, combate e movimentação
-- 🏟️ **Arena PVP 1v1** totalmente funcional com sistema de recompensa
-- 🧙 **NPCs / Companheiros exclusivos** com diálogos e questlines próprias
-- 🎨 **Lobby LAN e chat redesenhados** com interface medieval dark fantasy
-- 📦 **Sistema de loot expandido** para containers do mundo
-- 🌍 **Suporte multilíngue** com traduções principais em EN, ES, PT-BR, RU...
-- 🔧 **Correções técnicas importantes** melhorias na exportação e importação de saves.
-
----
-
-## 🎮 Multiplayer LAN/Wi‑Fi aprimorado
-
-O sistema LAN/Wi‑Fi foi profundamente retrabalhado para deixar a experiência cooperativa mais fluida, consistente e confiável.
-
-### ✅ Principais melhorias
-
-- **Sincronização de sprites em tempo real**
-  - ataque
-  - caminhada
-  - idle
-- **Movimentação remota mais suave** com interpolação otimizada
-- **Companion AI funcional** também para clientes LAN/Wi‑Fi
-- **Sons espaciais de combate** respeitando proximidade dos jogadores
-- **Chat LAN/Wi‑Fi funcional** com suporte multilíngue
-- **Limpeza correta de peers desconectados**
-- **Proteção contra corrupção de save** ao impedir serialização indevida
-- **NPCs do mundo preservados**, sem sofrer interferência do estado dos peers
+- ⚔️ **Reworked LAN/Wi-Fi Multiplayer** with improved sprite synchronization, combat, and movement
+- 🏟️ **Fully functional 1v1 PVP Arena** with reward system
+- 🧙 **Exclusive NPCs / Companions** with dialogues and Original questlines
+- 🎨 **Redesigned LAN lobby and chat** with a medieval dark fantasy interface
+- 📦 **Expanded loot system** for world containers
+- 🌍 **Multilingual support** with major translations in EN, ES, PT-BR, RU...
+- 🔧 **Important technical fixes** improvements to save export and import.
 
 ---
 
-## ⚔️ Arena PVP 1v1
+## 🎮 Enhanced LAN/Wi-Fi multiplayer
 
-Uma das grandes novidades do mod é a **Arena PVP**, criada para duelos entre jogadores em sessões LAN/Wi‑Fi.
+The LAN/Wi-Fi system has been extensively reworked to make the cooperative experience smoother, more consistent, and more reliable.
 
-### 📍 Onde encontrar
-A arena fica no **Vale de Lannegar**, onde o **Mestre da Arena** aguarda os combatentes.
+### ✅Main improvements
 
-### 🧩 Como funciona
+- **Real-time sprite synchronization**
 
-1. Os dois jogadores encontram o Mestre da Arena
-2. Ambos iniciam o desafio
-3. Os equipamentos originais são guardados temporariamente
-4. Cada jogador recebe um kit PVP padronizado
-5. Os dois são teleportados para a Arena PVP
-6. O duelo começa
-7. O vencedor fala com o NPC da arena para receber a recompensa
-8. Os equipamentos originais são devolvidos
-9. O jogador pode sair usando **Scroll: Teleport** **É OBRIGATÓRIO TER INT 2**.
+- attack
+- walking
+- standing still
+- **Smoother remote movement** with optimized interpolation
+- **Functional AI companion** also for LAN/Wi-Fi clients
+- **Spatial combat sounds** respecting player proximity
+- **Functional LAN/Wi-Fi Chat** with multilingual support
+- **Proper cleaning of disconnected peers**
+- **Save corruption protection** to prevent improper serialization
+- **Preserved world NPCs**, without interference from peer states
 
-### 🛡️ Kit PVP padrão
+---
+
+## ⚔️ 1v1 PVP Arena
+
+One of the mod's great new features is the **PVP Arena**, created for duels between players in LAN/Wi-Fi sessions.
+
+### 📍Where to find it
+The arena is located in the **Lannegar Valley**, where the **Arena Master** awaits the combatants.
+
+### 🧩 How it works
+
+1. Both players meet the Arena Master
+2. Both start the challenge
+3. Original equipment is temporarily stored
+4. Each player receives a standardized PVP kit
+5. Both are teleported to the PVP Arena
+6. The duel begins
+7. The winner speaks with the NPC in the arena to receive a reward
+8. Original equipment is returned
+9. The player can leave using **Scroll: Teleport** **INT 2 REQUIRED**.
+
+### 🛡️ Standard PVP Kit
 
 | Slot | Item |
+
 |------|------|
-| Arma | Steel Longsword |
-| Escudo | Steel Shield |
-| Armadura | Chainmail |
-| Consumível | 2x Potion of Healing |
 
-### 🏆 Recompensas entregues pelo NPC da arena
+| Weapon | Steel Longsword |
 
-| Resultado | Recompensa |
+| Shield | Steel Shield |
+
+| Armor | Chainmail |
+
+| Consumable | 2x Healing Potion |
+
+## 🏆 Rewards given by the arena NPC
+
+| Result | Reward |
+
 |-----------|-----------|
-| Vitória | 200 gold + Scroll: Teleport + recuperação do equipamento original |
-| Derrota | Scroll: Teleport + recuperação do equipamento original |
-| Desconexão | Scroll: Teleport + recuperação do equipamento original |
 
-### ⚙️ Lógica do sistema PVP
+| Victory | 200 gold + Scroll: Teleport + recovery of original equipment |
 
-O PVP usa uma abordagem inteligente de sincronização baseada em mensagens de chat para contornar limitações do protocolo LAN/Wi‑Fi, permitindo:
+| Defeat | Scroll: Teleport + recovery of original equipment |
 
-- detecção de eliminação
-- reconhecimento de vitória
-- entrega correta de recompensa
-- fluxo de saída confiável da arena
+| Disconnection | Scroll: Teleport + recovery of original equipment |
 
----
+## ⚙️ PVP System Logic
 
-## 🧙 Conteúdo inédito
+The PVP uses a smart chat-based synchronization approach to overcome LAN/Wi-Fi protocol limitations, allowing:
 
-### Novos Companheiros
-🎭 Um personagem misterioso que aparece em diferentes pontos do mundo.
-⚔️ Uma nova companheira recrutável localizada na **Torre de Tremadan**.
-
-### 🏟️ Mestre da Arena
-NPC responsável por iniciar e gerenciar os duelos PVP.
-
-- localização: **Vale de Lannegar**
+- Elimination detection
+- Victory recognition
+- Correct reward delivery
+- Reliable arena output flow
 
 ---
 
-## 🎨 Interface medieval exclusiva
+## 🧙 New Content
 
-O lobby LAN/Wi‑Fi e o chat foram redesenhados para combinar com o universo dark fantasy de Exiled Kingdoms.
+### New Companions
+🎭 A mysterious character that appears in different parts of the world.
 
-### 🖌️ Identidade visual
+⚔️ A new recruitable companion located in the **Tremadan Tower**.
 
-- **fundos escuros** com tons de cobre e bronze
-- **botões com bordas douradas** e aparência medieval
-- **painéis com textura de pergaminho**
-- **janelas de diálogo estilizadas**
-- **chat temático** com apresentação visual própria
+### 🏟️ Arena Master
+NPC responsible for initiating and managing PVP duels.
 
----
-
-## 📦 Sistema de loot aprimorado
-
-Os containers do mundo agora possuem tabelas de loot mais temáticas e mais interessantes, respeitando a progressão natural do jogo.
-
-Isso mantém o loot recompensador sem quebrar a progressão do jogo base.
+- Location: **Lannegar Valley**
 
 ---
 
-## 🌍 Idiomas suportados
+## 🎨 Exclusive Medieval Interface
 
-| Idioma | Status |
+The LAN/Wi-Fi lobby and chat have been redesigned to match the dark fantasy universe of Exiled Kingdoms.
+
+## 🖌️ Visual Identity
+
+- **Dark backgrounds** with copper and bronze tones
+- **Buttons with gold borders** and a medieval appearance
+- **Panels with parchment texture**
+- **Stylized dialogue windows**
+
+- **Themed chat** with its own visual presentation
+
+---
+
+## 📦 Improved Loot System
+
+World containers now have more thematic and interesting loot tables, respecting the natural progression of the game.
+
+This keeps the loot rewarding without breaking the progression of the base game.
+
+---
+
+## 🌍 Supported Languages
+
+| Language | Status |
+
 |--------|--------|
-| English | ✅ Completo |
-| Español | ✅ Completo |
-| Português (Brasil) | ✅ Completo |
-| Русский | ✅ Base |
-| Deutsch | ✅ Base |
-| Polski | ✅ Base |
-| Čeština | ✅ Base |
 
-> Os conteúdos exclusivos, incluindo NPCs, Arena PVP e diálogos principais, possuem suporte completo em **EN**, **ES** e **PT-BR**.
+| English | ✅ Complete |
+
+| Spanish | ✅ Complete |
+
+| Portuguese (Brazil) | ✅ Complete |
+
+| Russian | ✅ Basic |
+
+| German | ✅ Basic |
+
+| Polish | ✅ Basic |
+
+| Czech | ✅ Basic |
+
+> Exclusive content, including NPCs, PVP Arena, and main dialogues, has full support in **EN**, **ES**, and **PT-BR**.
 
 ---
 
-## 🔧 Correções técnicas
+## 🔧 Technical Fixes
 
-O mod também recebeu várias correções estruturais importantes para estabilidade e confiabilidade.
+The mod also received several important structural fixes for stability and reliability.
 
 ---
 
-## ⚠️ Notas importantes
+## ⚠️ Important Notes
 
-### Requisitos para PVP
-- ambos os jogadores devem estar na mesma rede Wi‑Fi/LAN
-- é recomendado já ter visitado **Kingsbridge**
-- o PVP é **1v1** ou **até 6 jogadores** e os jogadores precisam iniciar o desafio
+### PVP Requirements
+- Both players must be on the same Wi-Fi/LAN network
+- It is recommended to have already visited **Kingsbridge**
+- PVP is **1v1** or **up to 6 players** and players need to start the challenge
 
-### Compatibilidade
+### Compatibility
 - **Android 5.0+ (API 21+)**
-- baseado na versão base de Exiled Kingdoms
 
-### Limitações conhecidas
-- o dano PVP é calculado localmente em cada dispositivo
-- latência de rede pode causar pequenos atrasos na sincronização do HP
-- o **Scroll: Teleport** pode não funcionar em áreas seladas magicamente, como no jogo original
+- Based on the base version of Exiled Kingdoms
+
+### Known Limitations
+- PVP damage is calculated locally on each device
+- Network latency may cause slight delays in HP synchronization
+- **Scroll: Teleport** may not work in magically sealed areas, as in the original game
 
 ---
 
@@ -185,35 +206,37 @@ O mod também recebeu várias correções estruturais importantes para estabilid
 
 <div align="center">
 
-### APK de lançamento
+### Launch APK
 
-**[⬇️ Baixar APK](LINK_DO_APK_AQUI)**
+**[⬇️ Download [APK](APK_LINK_HERE)**
 
 </div>
 
 ---
 
-## 💬 Feedback e bugs
+## 💬 Feedback and Bugs
 
-Encontrou um bug, problema de sincronização ou sugestão de melhoria?
+Found a bug, synchronization problem, or suggestion for improvement?
 
-- Abra uma issue
-- Compartilhe prints ou vídeo
-- Informe em que mapa / situação ocorreu o problema
-- Se possível, descreva se estava em host ou client
+- Open an issue
+- Share screenshots or video
+- Specify which map/situation the problem occurred on
+
+- If possible, describe if it was on the host or client
 
 ---
 
-## 🛡️ Créditos
+## 🛡️ Credits
 
 <div align="center">
 
-**Baseado em Exiled Kingdoms**  
-**Modificação desenvolvida com foco em expansão de conteúdo, multiplayer e refinamento técnico**
+**Based on Exiled Kingdoms**
+
+**Modification developed focusing on content expansion, multiplayer, and technical refinement**
 
 ---
 
 ### ⚔️ Multiplayer
-### *Uma nova forma de viver Exiled Kingdoms*
+### *A new way to experience Exiled Kingdoms*
 
 </div>
