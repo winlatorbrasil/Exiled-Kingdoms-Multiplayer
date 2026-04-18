@@ -80,11 +80,19 @@ Added a shortcut to the Vault/Safes in the player profile, allowing access from 
 
 ---
 
-## MARK PLAYER MAPS
+## 🌍 MARK PLAYER MAPS
 
 Now you can see in real time the other player moving on the same map as you.
 
 <img width="1669" height="745" alt="image" src="https://github.com/user-attachments/assets/e080f4e4-a0d5-4142-9636-b740aaf0e670" />
+
+---
+
+## ⚔️ WEAPON AND ITEM UPGRADES
+
+It is now possible to upgrade weapons and items up to level 10.
+
+<img width="1619" height="757" alt="image" src="https://github.com/user-attachments/assets/df3ebbbd-9b63-4641-87b2-094c77e51cee" />
 
 ---
 
