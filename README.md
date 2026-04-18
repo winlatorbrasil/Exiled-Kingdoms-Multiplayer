@@ -30,6 +30,7 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 ## 🔥 Mod Highlights
 
 - ⚔️ **Reworked LAN/Wi-Fi Multiplayer** with improved sprite synchronization, combat, and movement
+- ⚔️ **Weapon and item upgrades up to level 10**
 - 🏟️ **Fully functional 1v1 PVP Arena** with reward system
 - 🧙 **Exclusive NPCs / Companions** with dialogues and Original questlines
 - 🎨 **Redesigned LAN lobby and chat** with a medieval dark fantasy interface
