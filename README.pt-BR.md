@@ -80,11 +80,19 @@ Adicionamos um atalho para o Cofre/Guardas no perfil do jogador, permitindo o ac
 
 ---
 
-## MARCAÇÃO DE PLAYER NO MAPA
+## 🌍 MARCAÇÃO DE PLAYERS NO MAPA
 
 Agora você pode ver em tempo real o outro jogador se movendo no mesmo mapa que você.
 
 <img width="1669" height="745" alt="image" src="https://github.com/user-attachments/assets/e080f4e4-a0d5-4142-9636-b740aaf0e670" />
+
+---
+
+## ⚔️ MELHORIAS DE ARMAS E ITENS
+
+Agora é possível aprimorar armas e itens até o nível 10.
+
+<img width="1619" height="757" alt="image" src="https://github.com/user-attachments/assets/df3ebbbd-9b63-4641-87b2-094c77e51cee" />
 
 ---
 
