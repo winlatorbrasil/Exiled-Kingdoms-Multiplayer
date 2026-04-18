@@ -40,6 +40,26 @@ Este mod foi projetado para entregar uma experiência mais viva, mais social e m
 
 ---
 
+**MODO LAN NO CANTO SUPERIOR DIREITO**
+
+<img width="1571" height="731" alt="image" src="https://github.com/user-attachments/assets/a464cdd1-dc50-4a57-b426-b4e2f635c65d" />
+
+**UM DISPOSITIVO É O HOST E OUTRO É O CLIENT QUE VAI ADICIONAR O IP DO HOST OU BUSCA LAN E SE CONECTA**
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/50415032-f33c-4375-8061-3011a714f6ae" />
+
+**CHAT LAN PARA OS JOGADORES PODEREM CONVERSAR E SABER ONDE ESTÁ CADA JOGADOR**
+
+<img width="1340" height="734" alt="image" src="https://github.com/user-attachments/assets/21fc7c5c-8ee4-4d49-8f38-226157da1504" />
+
+---
+
+### 🎮 Aumentar e Diminuir a dificuldade quando quiser
+
+<img width="525" height="631" alt="image" src="https://github.com/user-attachments/assets/f8627a51-e7ac-4cd9-a8d1-4d4ecc77218c" />
+
+---
+
 ## 📦 MENU MODS
 
 Por padrão, está desativado; o jogador pode ativar as opções se desejar.
@@ -106,6 +126,9 @@ A arena fica no **Vale de Lannegar**, onde o **Mestre da Arena** aguarda os comb
 7. O vencedor fala com o NPC da arena para receber a recompensa
 8. Os equipamentos originais são devolvidos
 9. O jogador pode sair usando **Scroll: Teleport** **É OBRIGATÓRIO TER INT 2**.
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/dacdda09-437a-4bfd-9808-ee4c2caf2c59" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/135e3c32-bc01-4bf2-823b-3d326a765fad" />
 
 ### 🛡️ Kit PVP padrão
 
