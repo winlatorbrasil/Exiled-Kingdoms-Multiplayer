@@ -136,6 +136,8 @@ The arena is located in the **Lannegar Valley**, where the **Arena Master** awai
 
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/dacdda09-437a-4bfd-9808-ee4c2caf2c59" />
 <img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/135e3c32-bc01-4bf2-823b-3d326a765fad" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/a56b2928-5a65-4746-9e79-0554f3ce0bf1" />
+
 
 ### 🛡️ Standard PVP Kit
 
