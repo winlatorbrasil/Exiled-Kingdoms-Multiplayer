@@ -40,6 +40,34 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 
 ---
 
+## 📦 MENU MODS
+
+By default it is disabled; the player can activate the options if they want.
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a8d350d9-e333-4968-af81-3dad9c49d597" />
+
+<img width="1650" height="772" alt="image" src="https://github.com/user-attachments/assets/2ec1c454-1a04-400a-a2d5-c5bd946a0c68" />
+
+---
+
+## 📦 VAULTS / SAFES
+
+Added a shortcut to the Vault/Safes in the player profile, allowing access from anywhere.
+
+<img width="1619" height="765" alt="image" src="https://github.com/user-attachments/assets/cdcd898c-44ab-498a-90b9-bed2e325fafd" />
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/c02762e6-2d8e-4a7e-b10a-f35bbd102b84" />
+
+---
+
+## MARK PLAYER MAPS
+
+Now you can see in real time the other player moving on the same map as you.
+
+<img width="1669" height="745" alt="image" src="https://github.com/user-attachments/assets/e080f4e4-a0d5-4142-9636-b740aaf0e670" />
+
+---
+
 ## 🎮 Enhanced LAN/Wi-Fi multiplayer
 
 The LAN/Wi-Fi system has been extensively reworked to make the cooperative experience smoother, more consistent, and more reliable.
