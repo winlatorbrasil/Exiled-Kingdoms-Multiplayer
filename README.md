@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Release%20Ready-gold?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-7-orange?style=for-the-badge)
 
-> **Improved LAN/Wi-Fi Co-op, 1v1 PVP Arena, New Companions, new questline, redone loot and medieval interface Exclusive.**
+> **Improved Wi-Fi/VPN Co-op, 1v1 PVP Arena, New Companions, new questline, redone loot and medieval interface Exclusive.**
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## ✨Overview
 
-**Exiled Kingdoms — Multiplayer** is an ambitious reimagining of the original experience, focused on **more stable LAN/Wi-Fi multiplayer**, **some new content**, and a **unique medieval visual identity**.
+**Exiled Kingdoms — Multiplayer** is an ambitious reimagining of the original experience, focused on **more stable Wi-Fi/VPN multiplayer**, **some new content**, and a **unique medieval visual identity**.
 
 This mod is designed to deliver a more vibrant, social, and immersive experience, with technical and design improvements that make each session much more interesting — whether exploring in co-op, facing another player in the arena, or discovering new stories scattered throughout the world.
 
@@ -29,7 +29,7 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 
 ## 🔥 Mod Highlights
 
-- ⚔️ **Reworked LAN/Wi-Fi Multiplayer** with improved sprite synchronization, combat, and movement
+- ⚔️ **Reworked Wi-Fi/VPN Multiplayer** with improved sprite synchronization, combat, and movement
 - ⚔️ **Weapon and item upgrades up to level 10**
 - 🏟️ **Fully functional 1v1 PVP Arena** with reward system
 - 🧙 **Exclusive NPCs / Companions** with dialogues and Original questlines
@@ -94,9 +94,9 @@ It is now possible to upgrade weapons and items up to level 10.
 
 ---
 
-## 🎮 Enhanced LAN/Wi-Fi multiplayer
+## 🎮 Enhanced Wi-Fi/VPN multiplayer
 
-The LAN/Wi-Fi system has been extensively reworked to make the cooperative experience smoother, more consistent, and more reliable.
+The Wi-Fi/VPN system has been extensively reworked to make the cooperative experience smoother, more consistent, and more reliable.
 
 ### ✅Main improvements
 
@@ -106,9 +106,9 @@ The LAN/Wi-Fi system has been extensively reworked to make the cooperative exper
 - walking
 - standing still
 - **Smoother remote movement** with optimized interpolation
-- **Functional AI companion** also for LAN/Wi-Fi clients
+- **Functional AI companion** also for Wi-Fi/VPN clients
 - **Spatial combat sounds** respecting player proximity
-- **Functional LAN/Wi-Fi Chat** with multilingual support
+- **Functional Wi-Fi/VPN Chat** with multilingual support
 - **Proper cleaning of disconnected peers**
 - **Save corruption protection** to prevent improper serialization
 - **Preserved world NPCs**, without interference from peer states
@@ -117,7 +117,7 @@ The LAN/Wi-Fi system has been extensively reworked to make the cooperative exper
 
 ## ⚔️ 1v1 PVP Arena
 
-One of the mod's great new features is the **PVP Arena**, created for duels between players in LAN/Wi-Fi sessions.
+One of the mod's great new features is the **PVP Arena**, created for duels between players in Wi-Fi/VPN sessions.
 
 ### 📍Where to find it
 The arena is located in the **Lannegar Valley**, where the **Arena Master** awaits the combatants.
@@ -167,7 +167,7 @@ The arena is located in the **Lannegar Valley**, where the **Arena Master** awai
 
 ## ⚙️ PVP System Logic
 
-The PVP uses a smart chat-based synchronization approach to overcome LAN/Wi-Fi protocol limitations, allowing:
+The PVP uses a smart chat-based synchronization approach to overcome Wi-Fi/VPN protocol limitations, allowing:
 
 - Elimination detection
 - Victory recognition
@@ -192,7 +192,7 @@ NPC responsible for initiating and managing PVP duels.
 
 ## 🎨 Exclusive Medieval Interface
 
-The LAN/Wi-Fi lobby and chat have been redesigned to match the dark fantasy universe of Exiled Kingdoms.
+The Wi-Fi/VPN lobby and chat have been redesigned to match the dark fantasy universe of Exiled Kingdoms.
 
 ## 🖌️ Visual Identity
 
