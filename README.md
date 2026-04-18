@@ -56,6 +56,9 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 
 ### 🎮 Increase and decrease the difficulty whenever you want
 
+<img width="560" height="678" alt="image" src="https://github.com/user-attachments/assets/987115a0-b311-40da-a8d6-8494f139e800" />
+
+
 <img width="525" height="631" alt="image" src="https://github.com/user-attachments/assets/f8627a51-e7ac-4cd9-a8d1-4d4ecc77218c" />
 
 ---
@@ -65,8 +68,6 @@ This mod is designed to deliver a more vibrant, social, and immersive experience
 By default it is disabled; the player can activate the options if they want.
 
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a8d350d9-e333-4968-af81-3dad9c49d597" />
-
-<img width="1650" height="772" alt="image" src="https://github.com/user-attachments/assets/2ec1c454-1a04-400a-a2d5-c5bd946a0c68" />
 
 ---
 
