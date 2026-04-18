@@ -8,7 +8,7 @@
 ### *The multiplayer that transforms Exiled Kingdoms into a new experience*
 ![Downloads](https://img.shields.io/github/downloads/winlatorbrasil/Exiled-Kingdoms-Multiplayer/total?style=for-the-badge&logo=github&label=Downloads&color=brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Game](https://img.shields.io/ [badge](https://img.shields.io/badge/Game-Exiled%20Kingdoms-8B0000?style=for-the-badge)
+![Game](https://img.shields.io/badge/Game-Exiled%20Kingdoms-8B0000?style=for-the-badge)
 ![Mode](https://img.shields.io/badge/Mode-Multiplayer%20LAN%20%7C%20PVP-1E90FF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Release%20Ready-gold?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-7-orange?style=for-the-badge)
