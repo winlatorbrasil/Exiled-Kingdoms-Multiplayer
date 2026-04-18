@@ -208,7 +208,7 @@ The mod also received several important structural fixes for stability and relia
 
 ### Launch APK
 
-**[⬇️ Download [APK](APK_LINK_HERE)**
+**[⬇️ Download [APK](https://github.com/winlatorbrasil/Exiled-Kingdoms-Multiplayer/releases/tag/Exiled-Kingdoms-Multiplayer-1.0)**
 
 </div>
 
@@ -231,6 +231,8 @@ Found a bug, synchronization problem, or suggestion for improvement?
 <div align="center">
 
 **Based on Exiled Kingdoms**
+
+**Sprites taken from the Sorrow Mod**
 
 **Modification developed focusing on content expansion, multiplayer, and technical refinement**
 
