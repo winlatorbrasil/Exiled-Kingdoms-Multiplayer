@@ -40,6 +40,34 @@ Este mod foi projetado para entregar uma experiência mais viva, mais social e m
 
 ---
 
+## 📦 MENU MODS
+
+Por padrão, está desativado; o jogador pode ativar as opções se desejar.
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a8d350d9-e333-4968-af81-3dad9c49d597" />
+
+<img width="1650" height="772" alt="image" src="https://github.com/user-attachments/assets/2ec1c454-1a04-400a-a2d5-c5bd946a0c68" />
+
+---
+
+## 📦 VAULTS / COFRES
+
+Adicionamos um atalho para o Cofre/Guardas no perfil do jogador, permitindo o acesso de qualquer lugar.
+
+<img width="1619" height="765" alt="image" src="https://github.com/user-attachments/assets/cdcd898c-44ab-498a-90b9-bed2e325fafd" />
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/c02762e6-2d8e-4a7e-b10a-f35bbd102b84" />
+
+---
+
+## MARCAÇÃO DE PLAYER NO MAPA
+
+Agora você pode ver em tempo real o outro jogador se movendo no mesmo mapa que você.
+
+<img width="1669" height="745" alt="image" src="https://github.com/user-attachments/assets/e080f4e4-a0d5-4142-9636-b740aaf0e670" />
+
+---
+
 ## 🎮 Multiplayer LAN/Wi‑Fi aprimorado
 
 O sistema LAN/Wi‑Fi foi profundamente retrabalhado para deixar a experiência cooperativa mais fluida, consistente e confiável.
