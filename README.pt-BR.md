@@ -31,6 +31,7 @@ Este mod foi projetado para entregar uma experiência mais viva, mais social e m
 
 - ⚔️ **Multiplayer LAN/Wi‑Fi reformulado** com sincronização melhorada de sprites, combate e movimentação
 - 🏟️ **Arena PVP 1v1** totalmente funcional com sistema de recompensa
+- ⚔️  **Upgrade de armas e itens até nível 10**
 - 🧙 **NPCs / Companheiros exclusivos** com diálogos e questlines próprias
 - 🎨 **Lobby LAN e chat redesenhados** com interface medieval dark fantasy
 - 📦 **Sistema de loot expandido** para containers do mundo
