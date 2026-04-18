@@ -128,6 +128,9 @@ The arena is located in the **Lannegar Valley**, where the **Arena Master** awai
 8. Original equipment is returned
 9. The player can leave using **Scroll: Teleport** **INT 2 REQUIRED**.
 
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/dacdda09-437a-4bfd-9808-ee4c2caf2c59" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/135e3c32-bc01-4bf2-823b-3d326a765fad" />
+
 ### 🛡️ Standard PVP Kit
 
 | Slot | Item |
