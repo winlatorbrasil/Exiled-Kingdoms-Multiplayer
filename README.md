@@ -1,94 +1,84 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-# ⚔️ Exiled Kingdoms — Sorrow Mod
+[![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
+[![Portuguese](https://img.shields.io/badge/Lang-Portuguese-green?style=for-the-badge&logo=google-translate&logoColor=white)](README.pt-BR.md)
 
-### *Uma experiência multiplayer reimaginada*
+# ⚔️ Exiled Kingdoms — Multiplayer
 
-[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge&logo=android)](https://developer.android.com)
-[![Engine](https://img.shields.io/badge/Engine-LibGDX-red?style=for-the-badge)](https://libgdx.com)
-[![Mode](https://img.shields.io/badge/Mode-LAN%20Co--op%20%2B%20PVP-blue?style=for-the-badge)](/)
-[![Languages](https://img.shields.io/badge/Languages-7-orange?style=for-the-badge)](/)
+### *O multiplayer que transforma Exiled Kingdoms em uma nova experiência*
+![Downloads](https://img.shields.io/github/downloads/winlatorbrasil/Exiled-Kingdoms-Multiplayer/total?style=for-the-badge&logo=github&label=Downloads&color=brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Game](https://img.shields.io/badge/Game-Exiled%20Kingdoms-8B0000?style=for-the-badge)
+![Mode](https://img.shields.io/badge/Mode-Multiplayer%20LAN%20%7C%20PVP-1E90FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Release%20Ready-gold?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-7-orange?style=for-the-badge)
 
----
-
-*Mod completo para Exiled Kingdoms com multiplayer LAN aprimorado, arena PVP,*  
-*NPCs e questlines exclusivos, UI medieval redesenhada e muito mais.*
+> **Co-op LAN/Wi‑Fi aprimorado, Arena PVP 1v1, Novos Companheiros, nova questline, loot refeito e interface medieval exclusiva.**
 
 </div>
 
 ---
 
-## 📋 Sumário
+## ✨ Visão geral
 
-- [🎮 Multiplayer LAN](#-multiplayer-lan)
-- [⚔️ Arena PVP](#️-arena-pvp)
-- [🧙 NPCs & Questlines Exclusivos](#-npcs--questlines-exclusivos)
-- [🎨 Interface Medieval](#-interface-medieval)
-- [📦 Sistema de Loot Aprimorado](#-sistema-de-loot-aprimorado)
-- [🌍 Idiomas Suportados](#-idiomas-suportados)
-- [🔧 Correções Técnicas](#-correções-técnicas)
-- [📸 Galeria](#-galeria)
-- [⚠️ Notas Importantes](#️-notas-importantes)
+**Exiled Kingdoms — Multiplayer** é uma releitura ambiciosa da experiência original, focada em **multiplayer LAN/Wi‑Fi mais estável**, **alguns conteúdos inéditos** e uma **identidade visual medieval própria**.
+
+Este mod foi projetado para entregar uma experiência mais viva, mais social e mais imersiva, com melhorias técnicas e de design que tornam cada sessão muito mais interessante — seja explorando em coop, enfrentando outro jogador na arena ou descobrindo novas histórias espalhadas pelo mundo.
 
 ---
 
-## 🎮 Multiplayer LAN
+## 🔥 Destaques do mod
 
-O sistema de multiplayer LAN foi completamente reformulado para oferecer uma experiência co-op estável e fluida.
-
-### ✅ Funcionalidades Implementadas
-
-| Feature | Descrição |
-|---------|-----------|
-| **Sincronização de Sprites** | Animações dos jogadores remotos sincronizadas em tempo real (ataque, caminhada, idle) |
-| **Movimentação Fluida** | Interpolação otimizada para movimentação suave dos peers remotos |
-| **Companion AI** | Companheiros NPC funcionam corretamente para clientes LAN |
-| **Sons Espaciais** | Sons de combate dos peers só tocam quando estão próximos |
-| **Chat LAN** | Sistema de chat funcional com suporte multilíngue |
-| **Cleanup de Peers** | Avatares fantasma são removidos corretamente ao sair/desconectar |
-| **Anti-Serialização** | Peers remotos NÃO são salvos no disco, prevenindo corrupção de save |
-| **NPC Sync** | NPCs do mundo não são afetados pelo estado dos peers LAN |
-
-### 🔄 Protocolo de Rede
-
-```
-PlayerState (sincronizado a cada tick):
-├── Posição (x, y)
-├── Animação atual
-├── HP perdido (missingHP)
-├── Mana
-├── Equipamentos visíveis
-└── Estado de combate
-```
+- ⚔️ **Multiplayer LAN/Wi‑Fi reformulado** com sincronização melhorada de sprites, combate e movimentação
+- 🏟️ **Arena PVP 1v1** totalmente funcional com sistema de recompensa
+- 🧙 **NPCs / Companheiros exclusivos** com diálogos e questlines próprias
+- 🎨 **Lobby LAN e chat redesenhados** com interface medieval dark fantasy
+- 📦 **Sistema de loot expandido** para containers do mundo
+- 🌍 **Suporte multilíngue** com traduções principais em EN, ES, PT-BR, RU...
+- 🔧 **Correções técnicas importantes** melhorias na exportação e importação de saves.
 
 ---
 
-## ⚔️ Arena PVP
+## 🎮 Multiplayer LAN/Wi‑Fi aprimorado
 
-Um sistema completo de **PVP 1v1** para duelos entre jogadores em sessões LAN.
+O sistema LAN/Wi‑Fi foi profundamente retrabalhado para deixar a experiência cooperativa mais fluida, consistente e confiável.
 
-### 📍 Localização
-A Arena PVP fica no **Vale de Lannegar** (`H10`), onde o **Mestre da Arena** aguarda os desafiadores.
+### ✅ Principais melhorias
 
-### 🎯 Como Funciona
+- **Sincronização de sprites em tempo real**
+  - ataque
+  - caminhada
+  - idle
+- **Movimentação remota mais suave** com interpolação otimizada
+- **Companion AI funcional** também para clientes LAN/Wi‑Fi
+- **Sons espaciais de combate** respeitando proximidade dos jogadores
+- **Chat LAN/Wi‑Fi funcional** com suporte multilíngue
+- **Limpeza correta de peers desconectados**
+- **Proteção contra corrupção de save** ao impedir serialização indevida
+- **NPCs do mundo preservados**, sem sofrer interferência do estado dos peers
 
-```
-┌──────────────────────────────────────────────┐
-│  1. Encontre o Mestre da Arena no Vale       │
-│  2. Inicie o desafio (ambos os jogadores)    │
-│  3. Equipamentos são guardados               │
-│  4. Equipamentos PVP são fornecidos          │
-│  5. Teleporte para a Arena PVP               │
-│  6. LUTE!                                    │
-│  7. Vencedor recebe 200 gold + recompensas   │
-│  8. Equipamentos originais são devolvidos     │
-│  9. Saia pela porta ou use Scroll: Teleport  │
-└──────────────────────────────────────────────┘
-```
+---
 
-### 🛡️ Equipamentos PVP
+## ⚔️ Arena PVP 1v1
 
-Ambos os jogadores recebem equipamento padronizado para garantir fairness:
+Uma das grandes novidades do mod é a **Arena PVP**, criada para duelos entre jogadores em sessões LAN/Wi‑Fi.
+
+### 📍 Onde encontrar
+A arena fica no **Vale de Lannegar**, onde o **Mestre da Arena** aguarda os combatentes.
+
+### 🧩 Como funciona
+
+1. Os dois jogadores encontram o Mestre da Arena
+2. Ambos iniciam o desafio
+3. Os equipamentos originais são guardados temporariamente
+4. Cada jogador recebe um kit PVP padronizado
+5. Os dois são teleportados para a Arena PVP
+6. O duelo começa
+7. O vencedor fala com o NPC da arena para receber a recompensa
+8. Os equipamentos originais são devolvidos
+9. O jogador pode sair usando **Scroll: Teleport** **É OBRIGATÓRIO TER INT 2**.
+
+### 🛡️ Kit PVP padrão
 
 | Slot | Item |
 |------|------|
@@ -97,231 +87,133 @@ Ambos os jogadores recebem equipamento padronizado para garantir fairness:
 | Armadura | Chainmail |
 | Consumível | 2x Potion of Healing |
 
-### 🏆 Sistema de Recompensas
+### 🏆 Recompensas entregues pelo NPC da arena
 
 | Resultado | Recompensa |
 |-----------|-----------|
-| 🏆 **Vitória** | 200 gold + Scroll: Teleport + equipamento original recuperado |
-| 💀 **Derrota** | Scroll: Teleport + equipamento original recuperado |
-| ❌ **Desconexão** | Scroll: Teleport + equipamento original recuperado |
+| Vitória | 200 gold + Scroll: Teleport + recuperação do equipamento original |
+| Derrota | Scroll: Teleport + recuperação do equipamento original |
+| Desconexão | Scroll: Teleport + recuperação do equipamento original |
 
-### 🔧 Sincronização de Combate
+### ⚙️ Lógica do sistema PVP
 
-O sistema de dano PVP utiliza uma abordagem baseada em chat para contornar limitações do protocolo LAN:
+O PVP usa uma abordagem inteligente de sincronização baseada em mensagens de chat para contornar limitações do protocolo LAN/Wi‑Fi, permitindo:
 
-- **Detecção de Morte:** Quando o perdedor é eliminado, uma mensagem `[PVP] Player has been eliminated!` é enviada via chat
-- **Trigger de Vitória:** O handler de chat no dispositivo do vencedor detecta a mensagem e seta `pvp_arena_won = 1`
-- **NPC de Saída:** Reconhece automaticamente o resultado da luta e distribui recompensas
-- **Saída Dupla:** Porta física na arena (transition zone) + Scroll: Teleport como backup
-
-### 📊 Variáveis de Controle
-
-| Variável | Valor | Significado |
-|----------|-------|-------------|
-| `pvp_arena_won` | `0` | Perdedor |
-| `pvp_arena_won` | `1` | Vencedor |
-| `pvp_arena_won` | `2` | Luta em andamento |
-| `pvp_fight_active` | `0` | Sem luta ativa |
-| `pvp_fight_active` | `1` | Luta em andamento |
+- detecção de eliminação
+- reconhecimento de vitória
+- entrega correta de recompensa
+- fluxo de saída confiável da arena
 
 ---
 
-## 🧙 NPCs & Questlines Exclusivos
+## 🧙 Conteúdo inédito
 
-### 🎭 Furulipo — O Mistério do Caçador de Relíquias
+### Novos Companheiros
+🎭 Um personagem misterioso que aparece em diferentes pontos do mundo.
+⚔️ Uma nova companheira recrutável localizada na **Torre de Tremadan**.
 
-Um NPC misterioso que aparece em múltiplas localizações do mapa.
+### 🏟️ Mestre da Arena
+NPC responsável por iniciar e gerenciar os duelos PVP.
 
-| Localização | Nome Exibido | Descrição |
-|-------------|-------------|-----------|
-| **Kingsbridge** | `???` | Aparece como desconhecido, gerando curiosidade |
-| **Demais locais** | `Furulipo` | Nome revelado após o primeiro encontro |
-
-**Questline: A Relíquia Solar**
-- Encontre Furulipo em diferentes locais do mundo
-- Descubra a história da **Relíquia Solar** e sua conexão com as Cruzadas
-- Derrote o boss que guarda a relíquia
-- Recompensa: **Medalha da Cruzada Solar** — item equipável único
-
-### ⚔️ Lyssara — Companheira de Batalha
-
-Uma nova companheira recrutável localizada na **Torre de Tremadan**.
-
-| Atributo | Detalhe |
-|----------|---------|
-| **Localização** | Torre de Tremadan |
-| **Classe** | Guerreira |
-| **Retrato** | Retrato personalizado registrado |
-| **Recrutamento** | Via diálogo após completar pré-requisitos |
-
-### 🏟️ Mestre da Arena PVP
-
-| Atributo | Detalhe |
-|----------|---------|
-| **Localização** | Vale de Lannegar (H10) |
-| **Função** | Gerencia duelos PVP entre jogadores LAN |
-| **Retrato** | #119 |
-| **Sprite** | `male_black_1` |
+- localização: **Vale de Lannegar**
 
 ---
 
-## 🎨 Interface Medieval
+## 🎨 Interface medieval exclusiva
 
-A interface do lobby LAN e do chat foi completamente redesenhada com tema medieval dark fantasy.
+O lobby LAN/Wi‑Fi e o chat foram redesenhados para combinar com o universo dark fantasy de Exiled Kingdoms.
 
-### 🖌️ Elementos Visuais
+### 🖌️ Identidade visual
 
-| Componente | Estilo |
-|------------|--------|
-| **Background** | Gradientes escuros com tons de cobre/bronze |
-| **Botões** | Bordas douradas com efeito 3D medieval |
-| **Painéis** | Texturas de pergaminho com bordas ornamentais |
-| **Diálogos** | Design de janela medieval com cantos arredondados |
-| **Chat** | Balões temáticos com fonte medieval |
-
-### 📐 Implementação
-
-- Todos os estilos são gerados **programaticamente** via Android `GradientDrawable`
-- Sem dependência de assets de imagem externos
-- Compatível com todos os tamanhos de tela
-- Otimizado para 4-bit registers do Dalvik
+- **fundos escuros** com tons de cobre e bronze
+- **botões com bordas douradas** e aparência medieval
+- **painéis com textura de pergaminho**
+- **janelas de diálogo estilizadas**
+- **chat temático** com apresentação visual própria
 
 ---
 
-## 📦 Sistema de Loot Aprimorado
+## 📦 Sistema de loot aprimorado
 
-Os containers interativos do mundo agora possuem tabelas de loot temáticas e balanceadas.
+Os containers do mundo agora possuem tabelas de loot mais temáticas e mais interessantes, respeitando a progressão natural do jogo.
 
-### 🎲 Containers Suportados
-
-| Container | Tema | Melhores Drops |
-|-----------|------|----------------|
-| 🪑 **Mesas** | Comida, ferramentas | Poções, Scrolls |
-| 📚 **Estantes** | Conhecimento arcano | Scrolls de Sabedoria |
-| 🛢️ **Barris** | Provisões, bebidas | Ale, Vinho, Rum |
-| 💀 **Cadáveres** | Pertences pessoais | Armas, Poções |
-| 📦 **Caixotes** | Suprimentos de viagem | Poções, Armas |
-| 📦 **Baús Grandes** | Loot recompensador | Armas de Aço, Poções avançadas |
-| 📦 **Baús Pequenos** | Loot básico | Poções, Scrolls |
-| ⚰️ **Sarcófagos** | Tesouro antigo | Poções de Death Ward |
-| 💀 **Restos Esqueléticos** | Restos de guerreiros | Armas, Crânios |
-| 🐣 **Ninhos** | Materiais animais | Ovos, Gordura |
-| 🌳 **Árvores** | Frutos naturais | Golden Apple |
-| ⛪ **Altares** | Bênçãos divinas | Scrolls sagrados |
-| 👑 **Tronos** | Itens reais/raros | Poções de Heroísmo |
-| 🕳️ **Buracos** | Itens escondidos | Poções, Scrolls |
-
-### ⚖️ Filosofia de Balanceamento
-
-- 🟢 **Itens comuns** (poções básicas, scrolls de recall): 15-30% de chance
-- 🟡 **Itens médios** (armas de ferro/aço, poções intermediárias): 5-12%
-- 🔴 **Itens raros** (scrolls de invocação, poções de heroísmo): 3-8%
-- ❌ **Nenhuma arma mágica/encantada** — preserva a progressão natural do jogo
-- ❌ **Nenhum item de quest** é incluído nos drops
+Isso mantém o loot recompensador sem quebrar a progressão do jogo base.
 
 ---
 
-## 🌍 Idiomas Suportados
+## 🌍 Idiomas suportados
 
 | Idioma | Status |
 |--------|--------|
-| 🇺🇸 English | ✅ Completo |
-| 🇪🇸 Español | ✅ Completo |
-| 🇧🇷 Português (Brasil) | ✅ Completo |
-| 🇷🇺 Русский | ✅ Base |
-| 🇩🇪 Deutsch | ✅ Base |
-| 🇵🇱 Polski | ✅ Base |
-| 🇨🇿 Čeština | ✅ Base |
+| English | ✅ Completo |
+| Español | ✅ Completo |
+| Português (Brasil) | ✅ Completo |
+| Русский | ✅ Base |
+| Deutsch | ✅ Base |
+| Polski | ✅ Base |
+| Čeština | ✅ Base |
 
-> **Nota:** Todos os NPCs exclusivos, questlines e diálogos da Arena PVP possuem traduções completas em EN, ES e PT-BR. Os demais idiomas utilizam as strings base do jogo.
-
----
-
-## 🔧 Correções Técnicas
-
-### 🐛 Bugs Corrigidos
-
-| Bug | Causa | Solução |
-|-----|-------|---------|
-| **Crash: VerifyError** | Registradores Dalvik fora do range (v8 em método .locals 8) | Refatorado para usar v7+v4 dentro do limite |
-| **Ghost Players** | Peer actors persistiam após desconexão | `clearPeerActors()` chamado no cleanup |
-| **Save Corruption** | Peers NPC eram serializados no save | Filtro `lanPeerVisual` no processo de save |
-| **NPC Clone Bug** | NPCs mundiais duplicados como "Soldier" | Prevenido flag `ai_disabled` em NPCs normais |
-| **Loading Freeze** | `travel#H10,1` sem entry point | Entry point + transition zone física |
-| **Wrong Dialogue** | Perdedor via mensagem de disconnect | Reordenação de conditions no diálogo |
-| **NullPointerException** | TextureRegion nula no SpriteBatch.draw | Inicialização garantida do TextureRegion |
-| **Container Crash** | Loot tables malformadas | Restauração completa dos dados de rules |
-| **Deadlock** | Sincronização de pausa no render thread | Otimização do `forcePublishLocalState()` |
-
-### 📁 Arquivos Chave Modificados
-
-<details>
-<summary><b>Smali (Bytecode)</b></summary>
-
-| Arquivo | Propósito |
-|---------|-----------|
-| `Player.smali` | Death handler PVP, publicação de estado |
-| `LanSessionManager.smali` | PVP elimination detection (host + client) |
-| `LanGameBridge.smali` | Sincronização de combate |
-| `LanLobbyActivity.smali` | UI medieval do lobby |
-| `LanGameBridgeChatRunnable.smali` | UI medieval do chat |
-| `NPC.smali` | Filtro de serialização para peers |
-
-</details>
-
-<details>
-<summary><b>Conversas & Quests</b></summary>
-
-| Arquivo | Propósito |
-|---------|-----------|
-| `pvp_arena_master.txt` | Diálogo do NPC que inicia duelos PVP |
-| `pvp_arena_exit.txt` | Diálogo do NPC de saída da arena (vencedor/perdedor) |
-| `furulipo_*.txt` | Questline do Furulipo (múltiplas conversas) |
-| `lyssara_*.txt` | Recrutamento e diálogos da Lyssara |
-
-</details>
-
-<details>
-<summary><b>Mapas TMX</b></summary>
-
-| Arquivo | Propósito |
-|---------|-----------|
-| `H10.tmx` | Adicionado Arena Master NPC + entry point |
-| `H10_pvp_arena.tmx` | Mapa da arena PVP (entries, NPC, transition zone) |
-
-</details>
+> Os conteúdos exclusivos, incluindo NPCs, Arena PVP e diálogos principais, possuem suporte completo em **EN**, **ES** e **PT-BR**.
 
 ---
 
-## ⚠️ Notas Importantes
+## 🔧 Correções técnicas
 
-> **Requisitos para PVP:**
-> - Ambos os jogadores devem estar na mesma rede WiFi/LAN
-> - Recomendado já ter visitado **Kingsbridge** antes de jogar PVP (o Scroll: Teleport usa cidades visitadas)
-> - O PVP é 1v1 — ambos os jogadores devem iniciar o desafio com o Mestre da Arena
-
-> **Compatibilidade:**
-> - Android 5.0+ (API 21+)
-> - Baseado no Exiled Kingdoms versão multiplayer
-> - Saves existentes são compatíveis
-
-> **Limitações Conhecidas:**
-> - O dano PVP é calculado localmente por cada dispositivo
-> - Latência da rede pode causar pequenos delays na sincronização de HP
-> - O Scroll: Teleport pode não funcionar em algumas áreas seladas magicamente (comportamento vanilla)
+O mod também recebeu várias correções estruturais importantes para estabilidade e confiabilidade.
 
 ---
+
+## ⚠️ Notas importantes
+
+### Requisitos para PVP
+- ambos os jogadores devem estar na mesma rede Wi‑Fi/LAN
+- é recomendado já ter visitado **Kingsbridge**
+- o PVP é **1v1** ou **até 6 jogadores** e os jogadores precisam iniciar o desafio
+
+### Compatibilidade
+- **Android 5.0+ (API 21+)**
+- baseado na versão base de Exiled Kingdoms
+
+### Limitações conhecidas
+- o dano PVP é calculado localmente em cada dispositivo
+- latência de rede pode causar pequenos atrasos na sincronização do HP
+- o **Scroll: Teleport** pode não funcionar em áreas seladas magicamente, como no jogo original
+
+---
+
+## 📥 Download
 
 <div align="center">
 
-### 🛡️ Construído com ☕ e ⚔️
+### APK de lançamento
 
-*Baseado em Exiled Kingdoms por 4 Dimension Games*  
-*Mod desenvolvido com auxílio de engenharia reversa Smali/Dalvik*
+**[⬇️ Baixar APK](LINK_DO_APK_AQUI)**
+
+</div>
 
 ---
 
-**[⬇️ Download APK](link)** · **[🐛 Reportar Bug](link)** · **[💬 Discussão](link)**
+## 💬 Feedback e bugs
+
+Encontrou um bug, problema de sincronização ou sugestão de melhoria?
+
+- Abra uma issue
+- Compartilhe prints ou vídeo
+- Informe em que mapa / situação ocorreu o problema
+- Se possível, descreva se estava em host ou client
+
+---
+
+## 🛡️ Créditos
+
+<div align="center">
+
+**Baseado em Exiled Kingdoms**  
+**Modificação desenvolvida com foco em expansão de conteúdo, multiplayer e refinamento técnico**
+
+---
+
+### ⚔️ Multiplayer
+### *Uma nova forma de viver Exiled Kingdoms*
 
 </div>
-]]>
