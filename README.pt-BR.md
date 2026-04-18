@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Release%20Ready-gold?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-7-orange?style=for-the-badge)
 
-> **Co-op LAN/Wi‑Fi aprimorado, Arena PVP 1v1, Novos Companheiros, nova questline, loot refeito e interface medieval exclusiva.**
+> **Co-op Wi-Fi/VPN aprimorado, Arena PVP 1v1, Novos Companheiros, nova questline, loot refeito e interface medieval exclusiva.**
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## ✨ Visão geral
 
-**Exiled Kingdoms — Multiplayer** é uma releitura ambiciosa da experiência original, focada em **multiplayer LAN/Wi‑Fi mais estável**, **alguns conteúdos inéditos** e uma **identidade visual medieval própria**.
+**Exiled Kingdoms — Multiplayer** é uma releitura ambiciosa da experiência original, focada em **multiplayer Wi-Fi/VPN mais estável**, **alguns conteúdos inéditos** e uma **identidade visual medieval própria**.
 
 Este mod foi projetado para entregar uma experiência mais viva, mais social e mais imersiva, com melhorias técnicas e de design que tornam cada sessão muito mais interessante — seja explorando em coop, enfrentando outro jogador na arena ou descobrindo novas histórias espalhadas pelo mundo.
 
@@ -29,7 +29,7 @@ Este mod foi projetado para entregar uma experiência mais viva, mais social e m
 
 ## 🔥 Destaques do mod
 
-- ⚔️ **Multiplayer LAN/Wi‑Fi reformulado** com sincronização melhorada de sprites, combate e movimentação
+- ⚔️ **Multiplayer Wi-Fi/VPN reformulado** com sincronização melhorada de sprites, combate e movimentação
 - 🏟️ **Arena PVP 1v1** totalmente funcional com sistema de recompensa
 - ⚔️  **Upgrade de armas e itens até nível 10**
 - 🧙 **NPCs / Companheiros exclusivos** com diálogos e questlines próprias
@@ -96,9 +96,9 @@ Agora é possível aprimorar armas e itens até o nível 10.
 
 ---
 
-## 🎮 Multiplayer LAN/Wi‑Fi aprimorado
+## 🎮 Multiplayer Wi-Fi/VPN aprimorado
 
-O sistema LAN/Wi‑Fi foi profundamente retrabalhado para deixar a experiência cooperativa mais fluida, consistente e confiável.
+O sistema Wi-Fi/VPN foi profundamente retrabalhado para deixar a experiência cooperativa mais fluida, consistente e confiável.
 
 ### ✅ Principais melhorias
 
@@ -107,9 +107,9 @@ O sistema LAN/Wi‑Fi foi profundamente retrabalhado para deixar a experiência 
   - caminhada
   - idle
 - **Movimentação remota mais suave** com interpolação otimizada
-- **Companion AI funcional** também para clientes LAN/Wi‑Fi
+- **Companion AI funcional** também para clientes Wi-Fi/VPN
 - **Sons espaciais de combate** respeitando proximidade dos jogadores
-- **Chat LAN/Wi‑Fi funcional** com suporte multilíngue
+- **Chat Wi-Fi/VPN funcional** com suporte multilíngue
 - **Limpeza correta de peers desconectados**
 - **Proteção contra corrupção de save** ao impedir serialização indevida
 - **NPCs do mundo preservados**, sem sofrer interferência do estado dos peers
@@ -118,7 +118,7 @@ O sistema LAN/Wi‑Fi foi profundamente retrabalhado para deixar a experiência 
 
 ## ⚔️ Arena PVP 1v1
 
-Uma das grandes novidades do mod é a **Arena PVP**, criada para duelos entre jogadores em sessões LAN/Wi‑Fi.
+Uma das grandes novidades do mod é a **Arena PVP**, criada para duelos entre jogadores em sessões Wi-Fi/VPN.
 
 ### 📍 Onde encontrar
 A arena fica no **Vale de Lannegar**, onde o **Mestre da Arena** aguarda os combatentes.
@@ -159,7 +159,7 @@ A arena fica no **Vale de Lannegar**, onde o **Mestre da Arena** aguarda os comb
 
 ### ⚙️ Lógica do sistema PVP
 
-O PVP usa uma abordagem inteligente de sincronização baseada em mensagens de chat para contornar limitações do protocolo LAN/Wi‑Fi, permitindo:
+O PVP usa uma abordagem inteligente de sincronização baseada em mensagens de chat para contornar limitações do protocolo Wi-Fi/VPN, permitindo:
 
 - detecção de eliminação
 - reconhecimento de vitória
@@ -183,7 +183,7 @@ NPC responsável por iniciar e gerenciar os duelos PVP.
 
 ## 🎨 Interface medieval exclusiva
 
-O lobby LAN/Wi‑Fi e o chat foram redesenhados para combinar com o universo dark fantasy de Exiled Kingdoms.
+O lobby Wi-Fi/VPN e o chat foram redesenhados para combinar com o universo dark fantasy de Exiled Kingdoms.
 
 ### 🖌️ Identidade visual
 
